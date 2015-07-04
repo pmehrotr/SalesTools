@@ -6,6 +6,8 @@ public class SalesTools {
 		// TODO Auto-generated method stub
 		System.out.println(
 		"Hello in SalesTools");
+		System.out.println(
+				"Hello in SalesTools 2");
 
 	}
 
